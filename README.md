@@ -1,4 +1,4 @@
-# ian
+# Religious Literacy Project
 
 This is a project I completed for my RLG 110 class. We are assigned a creative project as our final. I chose to make a simple chatbot that educates people about the beliefs
 and practices, demographic information, and social and political views of various popular religions in the United States. I chose to create this chatbot because of my passion
